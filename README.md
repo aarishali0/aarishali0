@@ -20,7 +20,7 @@
 I'm a **Tech Enthusiast :computer: :smile:** passionate about learning and working with new technologies. I love building interesting and amazing **SaaS** products that serve a great deal of purpose.
 
 ### :zap: A Few Facts
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working at  <a href="https://www.buildrun.app/" target="_blank">BuildRun</a>. 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working at  <a href="https://about.youdata.ai" target="_blank">YouData.ai</a>. 
 - :seedling: I'm continuously enhancing my skills in:
   - :cloud: Backend technology.
   - :robot: Data structures and algorithms.
